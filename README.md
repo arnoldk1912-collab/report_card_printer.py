@@ -10,3 +10,6 @@ print(age, type(age))
 score = 80.5
 print(isinstance(score, float))
 print(score, type(score))
+
+
+https://www.freecodecamp.org/learn/python-v9/#workshop-report-card-printer
